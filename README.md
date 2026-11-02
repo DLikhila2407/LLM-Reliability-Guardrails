@@ -123,6 +123,3 @@ Report denominators and confidence intervals. Consider reporting metrics separat
 └── requirements.txt
 ```
 
-## Suggested first milestone
-
-Build and manually verify a pilot dataset of 30 questions (balanced across categories) before scaling to 200–300. Test the annotation guide on 10 responses, revise ambiguous definitions, then freeze the protocol before running the full evaluation.
